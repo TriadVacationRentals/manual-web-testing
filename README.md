@@ -32,4 +32,4 @@ This document contains the process and findings from manual testing of the Triad
 The Triad Vacation Rental website passed all major manual testing checks with only minor improvements needed in image compression for faster loading. Overall, it provides a reliable and user-friendly experience.
 
 ---
-**Visit us:** [Triad Vacation Rental Official Website](https://triadvacationrental.com)
+**Visit us:** [Triad Vacation Rental Official Website](https://triadvacationrentals.com)
