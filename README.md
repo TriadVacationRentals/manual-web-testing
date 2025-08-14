@@ -1,7 +1,7 @@
 # Triad Vacation Rental – Manual Website Testing
 
 ## About Triad Vacation Rental
-[Triad Vacation Rental](https://triadvacationrental.com) offers short-term rental management and cozy stays for travelers seeking comfort, convenience, and great service. Our mission is to provide a seamless booking experience and unforgettable guest stays.
+[Triad Vacation Rental](https://triadvacationrentals.com) offers short-term rental management and cozy stays for travelers seeking comfort, convenience, and great service. Our mission is to provide a seamless booking experience and unforgettable guest stays.
 
 ## Manual Website Testing Scope
 This document contains the process and findings from manual testing of the Triad Vacation Rental website.
